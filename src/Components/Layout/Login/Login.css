@@ -1,0 +1,26 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    background-color: rgb(228, 228, 228);
+}
+.allinfo{
+    margin-top: 50px;
+    display: flex;
+    justify-content: center;
+}
+.Components{
+    padding-left: 5px;
+    background-color: rgb(228, 235, 241);
+    height: 500px;
+}
+
+.img{
+    height: 500px;
+    width: 500px;
+    background-image: url("https://images.pexels.com/photos/3690005/pexels-photo-3690005.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
